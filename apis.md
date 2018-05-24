@@ -1,16 +1,16 @@
 ---
 name: AppointmentPlus
 x-slug: appointmentplus
-description: "Since 2001, AppointmentPlus, an Inc. 5000 company, has been working
-  with businesses to automate their complex customer, staff, and resource scheduling
-  needs. To date our Scheduling Cloud\u2122 API has helped more than 6,000 clients
-  - representing 100+ indus..."
+description: Since 2001, AppointmentPlus, an Inc. 5000 company, has been working with
+  businesses to automate their complex customer, staff, and resource scheduling needs.
+  To date our Scheduling Cloud API has helped more than 6,000 clients - representing
+  100+ indus...
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/349-appointmentplus.jpg
 x-kinRank: "7"
 x-alexaRank: "38885"
 tags: AppointmentPlus
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/appointmentplus/master/_listings/appointmentplus/apis.md
 specificationVersion: "0.14"
 apis: []
